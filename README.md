@@ -26,6 +26,4 @@
 
 ---
 
-Jake-DrivingSchool brings realism and structure to obtaining licenses on your server. Whether for roleplay or gameplay enrichment, this script and MLO create a unique, professional experience for your players.
-
 **Preview** - https://www.youtube.com/watch?v=pyxUGwLRb2I
