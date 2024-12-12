@@ -1,6 +1,6 @@
-**Jake-DrivingSchool - A Comprehensive Driving School Script + Custom MLO for FiveM**
+**Jake-DrivingSchool**
 
-Jake-DrivingSchool is a custom QB-Core script paired with a meticulously designed MLO, offering a realistic and engaging driving school experience for your FiveM server. This script allows players to enroll in driving lessons, complete practical tests, and earn their driver's licenses in a structured, immersive environment.
+---
 
 **Features:**
 - Fully functional driving school system with theory and practical tests.
@@ -23,6 +23,8 @@ Jake-DrivingSchool is a custom QB-Core script paired with a meticulously designe
 **Dependencies:**
 - QB-Core Framework
 - Custom MLO (included)
+
+---
 
 Jake-DrivingSchool brings realism and structure to obtaining licenses on your server. Whether for roleplay or gameplay enrichment, this script and MLO create a unique, professional experience for your players.
 
